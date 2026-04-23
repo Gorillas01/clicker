@@ -83,7 +83,7 @@ const shopItems = [
   },
   {
     name: "Autoklikkeri",
-    cost: 5,
+    cost: 2,
     type: "auto"
   }
 ];
