@@ -1,2 +1,0 @@
-# clicker
-Schoolproject-clickergame
